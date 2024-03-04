@@ -1,0 +1,18 @@
+.navbar .nav-item.active .nav-link.active,
+.navbar .nav-item:focus .nav-link:focus,
+.navbar .nav-item:hover .nav-link:hover {
+    color: #ffffff;
+}
+.nav-title {
+    font-family: cursive;
+}
+h1 {
+    font-size: 48px;
+}
+.ff {
+    font-family: cursive;
+    box-shadow: 0px 0px 4px #121212;
+}
+button {
+    box-shadow: 2px 2px 4px #121212;
+}
